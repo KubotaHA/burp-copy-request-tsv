@@ -37,3 +37,5 @@ nbdist/
 
 target/
 src/main/java/burp/I*
+
+.idea/
